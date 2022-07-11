@@ -1,0 +1,18 @@
+h1 {
+    color: green;
+    text-decoration: line-through;
+}
+p {
+
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-container >.info-card {
+    border-color: black;
+    border-left: 10px;
+}
